@@ -4,6 +4,9 @@
         <title>PHP Test</title>
     </head>
     <body>
-        <?php echo '<p>Hello Openshift & RHACS</p>'; ?>
+       <?php echo "Hello, World! php version is " . PHP_VERSION . "\n"  ?>
+
+       
+        
     </body>
 </html>
